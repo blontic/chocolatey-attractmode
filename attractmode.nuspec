@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>attractmode</id>
+    <title>attractmode (Portable)</title>
+    <version>2.3.0</version>
+    <authors>blontic</authors>
+    <owners>mickelson</owners>
+    <summary>A graphical front-end for command line emulators that hides the underlying operating system and is intended to be controlled with a joystick or gamepad. http://attractmode.org</summary>
+    <description>
+        Attract-Mode is a graphical frontend for command line emulators such as MAME, MESS, and Nestopia. It hides the underlying operating system and is intended to be controlled with a joystick, gamepad or spin dial, making it ideal for use in arcade cabinet setups.
+    </description>
+    <projectUrl>https://github.com/mickelson/attract</projectUrl>
+    <packageSourceUrl>https://github.com/mickelson/attract</packageSourceUrl>
+    <projectSourceUrl>https://github.com/mickelson/attract</projectSourceUrl>
+    <docsUrl>https://github.com/mickelson/attract</docsUrl>
+    <bugTrackerUrl>https://github.com/mickelson/attract/issues</bugTrackerUrl>
+    <tags>attract attractmode</tags>
+    <copyright></copyright>
+    <licenseUrl>https://github.com/mickelson/attract/blob/master/License.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes>Release notes: https://github.com/mickelson/attract/releases/tag/v2.3.0</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
