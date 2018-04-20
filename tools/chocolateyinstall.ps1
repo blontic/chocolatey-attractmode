@@ -1,5 +1,4 @@
-﻿
-$ErrorActionPreference = 'Stop'
+﻿$ErrorActionPreference = 'Stop'
 
 $attractVersion   = 'v2.3.0'
 $attractDirectory = "c:\attract-$attractVersion"
